@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, !</string>
+    <string name="app_name">Recipe Database</string>
+    <string name="str_addrecord">AddRecords</string>
+    <string name="str_viewrecords">ViewRecords</string>
+    <string name="str_entername">Enter Name</string>
+    <string name="str_enterdescription">Enter Description</string>
+    <string name="str_enteringredeints">Enter Ingredeints</string>
+    <string name="str_addrecords">Add Record</string>
+
+</resources>

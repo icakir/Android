@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SQLIteDatabaseActivity!</string>
+    <string name="app_name">SQLIteDatabase</string>
+    <string name="str_addrecord">AddRecords</string>
+    <string name="str_viewrecords">ViewRecords</string>
+    <string name="str_entertitle">Enter Title</string>
+    <string name="str_enterauthor">Enter Author</string>
+    <string name="str_enterrating">Enter Rating (1-10)</string>
+    <string name="str_addrecords">Add Record</string>
+
+</resources>

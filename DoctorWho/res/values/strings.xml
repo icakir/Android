@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Doctor Who</string>
+    <string name="app_name">DoctorWho</string>
+    <string name="dr_overview">Get Overview</string>
+    <string name="dr_listDoctors">Doctors</string>
+
+</resources>

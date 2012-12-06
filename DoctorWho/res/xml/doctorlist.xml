@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doctors>
+<doctor
+	number="First"
+	name="William Hartnell"
+	tenure="1963-1966" />
+
+<doctor
+	number="Second"
+	name="Patrick Troughton"
+	tenure="1966-1969" />
+	
+<doctor
+	number="Third"
+	name="John Pertwee"
+	tenure="1970-1974" />
+	
+<doctor
+	number="Fourth"
+	name="Tom Baker"
+	tenure="1974-1981" />
+	
+<doctor
+	number="Fifth"
+	name="Peter Davidson"
+	tenure="1981-1984" />
+	
+<doctor
+	number="Sixth"
+	name="Colin Baker"
+	tenure="1984-1986" />
+	
+<doctor
+	number="Seventh"
+	name="Sylvester McCoy"
+	tenure="1987-1989, 1996" />
+	
+<doctor
+	number="Eigth"
+	name="Paul McGann"
+	tenure="1996" />
+	
+<doctor
+	number="Nineth"
+	name="Christopher Eccleston"
+	tenure="2005" />
+	
+<doctor
+	number="Tenth"
+	name="David Tennant"
+	tenure="2005-2010" />
+	
+<doctor
+	number="Eleventh"
+	name="Matt Smith"
+	tenure="2010-present" />
+</doctors>

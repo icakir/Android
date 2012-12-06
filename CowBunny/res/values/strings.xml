@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CowBunnyActivity!</string>
+    <string name="app_name">CowBunny</string>
+    
+    <string name="dear_rep">Dear Representative:</string>
+    <string name="rdo_pro_str">"You are a political genius!"</string>
+    <string name="rdo_con_str">Your job performance is abysmal.</string>
+    <string name="more_details">My pithy email will explain why.</string>
+    <string name="btn_create_email">Create new email</string>
+    
+    <string name="str_goods">ViewRecords</string>
+    
+    <string name="sting_txt"></string>
+    
+
+</resources>
